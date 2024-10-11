@@ -7,7 +7,28 @@ Introduction to Backend Web Development for Co-Op Fall 2024
 - What do backend web servers do?
 - What is Django? Who uses it? Why Django? What other options are there?
 - Install VSCode, django 
-- Our first Django App
+- Our first Django Appuhaetl
+- eu
+- ahue
+- teuoa
+- euo
+- haue
+
+- hu
+- hae
+- ahtuh
+- taht
+- htaeu
+- he
+- hh
+- tueth
+- th
+- euot
+- huaon
+- nahu
+- atnehu
+- ntah
+- aneu
 
 ## Week 2 - Function Based Views 
 
